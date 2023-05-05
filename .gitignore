@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+~/.vscode
+mongo/
+mysql/
+database/
+.history
+data
